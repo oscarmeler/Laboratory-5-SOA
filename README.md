@@ -29,7 +29,7 @@ Alberto Sabater Bailón | 546297
 Agustin Navarro Torres | 587570
 Alejandro Solanas Bonilla | 647647
 Christian García Artero | 597578
-Luis Jesus Pellicer | 520256
+Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/Laboratory-5-SOA)
 Marcos Ruiz García | 648045
 Óscar Meler Murillo | 608919
 Aron Collados Torres | 626558
