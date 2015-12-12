@@ -19,7 +19,7 @@ Sergio Soro Miranda | 671250 | [repo](https://github.com/teruyi/Laboratory-5-SOA
 Alberto Álvarez Aldea | 681687
 Oscar Clemente Pedrico | 530162
 Iñigo Gascón Royo | 685215
-Adrian Susinos Moreno | 650220
+Adrian Susinos Moreno | 650220 | [repo](https://github.com/ader9/Laboratory-5-SOA)
 Santiago Gil Begué | 683482 | [repo](https://github.com/Santi-7/Laboratory-5-SOA)
 Carlos Escuín Blasco | 545003 | [repo](https://github.com/xarlieskin/Laboratory-5-SOA)
 Alberto Revel | 628704
