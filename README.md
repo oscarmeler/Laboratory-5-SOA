@@ -17,7 +17,7 @@ David Nicuesa Aranda | 653224 | [repo](https://github.com/Nicu1309/Laboratory-5-
 Eduardo Ibanez | 528074
 Sergio Soro Miranda | 671250 | [repo](https://github.com/teruyi/Laboratory-5-SOA)
 Alberto Álvarez Aldea | 681687 | [repo](https://github.com/albert17/Laboratory-5-SOA)
-Oscar Clemente Pedrico | 530162
+Oscar Clemente Pedrico | 530162| [repo](https://github.com/OscarClemente/Laboratory-5-SOA)
 Iñigo Gascón Royo | 685215
 Adrian Susinos Moreno | 650220 | [repo](https://github.com/ader9/Laboratory-5-SOA)
 Santiago Gil Begué | 683482 | [repo](https://github.com/Santi-7/Laboratory-5-SOA)
