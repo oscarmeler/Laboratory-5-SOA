@@ -27,6 +27,6 @@ public class SearchController {
       Map<String, Object> headers = new HashMap<String, Object>();
     	headers.put("CamelTwitterKeywords", q);
     	if (max != null) headers.put("CamelTwitterCount", max);
-        return producerTemplate.requestBodyAndHeader("direct:search", "", headers);
+        return producerTemplate.requestBodyAndHeaders("direct:search", "", headers);
     }
 }
