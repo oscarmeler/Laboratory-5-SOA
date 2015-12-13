@@ -5,3 +5,9 @@
 .classpath
 .project
 .DS_Store
+.settings
+.gradle
+*.xml
+*.iml
+/.idea/
+*.properties
