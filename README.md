@@ -24,7 +24,7 @@ Santiago Gil Begué | 683482 | [repo](https://github.com/Santi-7/Laboratory-5-SO
 Carlos Escuín Blasco | 545003 | [repo](https://github.com/xarlieskin/Laboratory-5-SOA)
 Alberto Revel | 628704
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/Laboratory-5-SOA)
-Adrian Moreno Jimeno | 631537
+Adrián Moreno Jimeno | 631537 | [repo](https://github.com/Adriem/Laboratory-5-SOA)
 Alberto Sabater Bailón | 546297 | [repo](https://github.com/asabater94/Laboratory-5-SOA) | UI and search functionalities improved | :gift:
 Agustin Navarro Torres | 587570|[repo](https://github.com/SirBargus/Laboratory-5-SOA)|Transform into Node.js and send tweets
 Alejandro Solanas Bonilla | 647647
