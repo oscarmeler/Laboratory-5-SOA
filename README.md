@@ -14,10 +14,10 @@ Iñigo Alonso Ruiz | 665959 | [repo](https://github.com/Shathe/Laboratory-5-SOA)
 Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Laboratory-5-SOA)
 Jorge Martinez Lascorz | 571735 | [repo](https://github.com/JorgeCoke/Laboratory-5-SOA)
 David Nicuesa Aranda | 653224 | [repo](https://github.com/Nicu1309/Laboratory-5-SOA)
-Eduardo Ibanez | 528074
+Eduardo Ibanez | 528074 | [repo](https://github.com/EduIbanez/Laboratory-5-SOA)
 Sergio Soro Miranda | 671250 | [repo](https://github.com/teruyi/Laboratory-5-SOA)
 Alberto Álvarez Aldea | 681687 | [repo](https://github.com/albert17/Laboratory-5-SOA)
-Oscar Clemente Pedrico | 530162
+Oscar Clemente Pedrico | 530162| [repo](https://github.com/OscarClemente/Laboratory-5-SOA)
 Iñigo Gascón Royo | 685215
 Adrian Susinos Moreno | 650220 | [repo](https://github.com/ader9/Laboratory-5-SOA)
 Santiago Gil Begué | 683482 | [repo](https://github.com/Santi-7/Laboratory-5-SOA)
@@ -25,8 +25,8 @@ Carlos Escuín Blasco | 545003 | [repo](https://github.com/xarlieskin/Laboratory
 Alberto Revel | 628704
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/Laboratory-5-SOA)
 Adrián Moreno Jimeno | 631537 | [repo](https://github.com/Adriem/Laboratory-5-SOA)
-Alberto Sabater Bailón | 546297
-Agustin Navarro Torres | 587570
+Alberto Sabater Bailón | 546297 | [repo](https://github.com/asabater94/Laboratory-5-SOA) | UI and search functionalities improved | :gift:
+Agustin Navarro Torres | 587570|[repo](https://github.com/SirBargus/Laboratory-5-SOA)|Transform into Node.js and send tweets
 Alejandro Solanas Bonilla | 647647
 Christian García Artero | 597578
 Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/Laboratory-5-SOA)
