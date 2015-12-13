@@ -24,7 +24,7 @@ Santiago Gil Begué | 683482 | [repo](https://github.com/Santi-7/Laboratory-5-SO
 Carlos Escuín Blasco | 545003
 Alberto Revel | 628704
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/Laboratory-5-SOA)
-Adrian Moreno Jimeno | 631537
+Adrián Moreno Jimeno | 631537 | [repo](https://github.com/Adriem/Laboratory-5-SOA)
 Alberto Sabater Bailón | 546297
 Agustin Navarro Torres | 587570
 Alejandro Solanas Bonilla | 647647
