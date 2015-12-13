@@ -14,7 +14,7 @@ Iñigo Alonso Ruiz | 665959 | [repo](https://github.com/Shathe/Laboratory-5-SOA)
 Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Laboratory-5-SOA)
 Jorge Martinez Lascorz | 571735 | [repo](https://github.com/JorgeCoke/Laboratory-5-SOA)
 David Nicuesa Aranda | 653224 | [repo](https://github.com/Nicu1309/Laboratory-5-SOA)
-Eduardo Ibanez | 528074
+Eduardo Ibanez | 528074 | [repo](https://github.com/EduIbanez/Laboratory-5-SOA)
 Sergio Soro Miranda | 671250 | [repo](https://github.com/teruyi/Laboratory-5-SOA)
 Alberto Álvarez Aldea | 681687 | [repo](https://github.com/albert17/Laboratory-5-SOA)
 Oscar Clemente Pedrico | 530162
