@@ -26,7 +26,7 @@ Alberto Revel | 628704
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/Laboratory-5-SOA)
 Adrian Moreno Jimeno | 631537
 Alberto Sabater Bailón | 546297 | [repo](https://github.com/asabater94/Laboratory-5-SOA)
-Agustin Navarro Torres | 587570
+Agustin Navarro Torres | 587570|[repo](https://github.com/SirBargus/Laboratory-5-SOA)|Transform into Node.js and send tweets
 Alejandro Solanas Bonilla | 647647
 Christian García Artero | 597578
 Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/Laboratory-5-SOA)
